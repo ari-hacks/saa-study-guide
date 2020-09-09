@@ -18,8 +18,8 @@ Domain | % of Examination |
 ---------|----------|
  Domain 1: [Design Resilient Architectures](/Domain-1/)  | 30% | 
  Domain 2: [Design High-Performing Architectures](/Domain-2/) | 28% | 
- Domain 3: [Design Secure Applications and Architectures](/Domain-3/)) | 24% | 
- Domain 4: [Design Cost-Optimized Architectures](/Domain-4/)) | 18% | 
+ Domain 3: [Design Secure Applications and Architectures](/Domain-3/) | 24% | 
+ Domain 4: [Design Cost-Optimized Architectures](/Domain-4/) | 18% | 
 
 -------------------------------
 
