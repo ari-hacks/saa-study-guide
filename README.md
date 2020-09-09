@@ -17,9 +17,9 @@
 Domain | % of Examination | 
 ---------|----------|
  Domain 1: [Design Resilient Architectures](/Domain-1/)  | 30% | 
- Domain 2: [Design High-Performing Architectures]() | 28% | 
- Domain 3: [Design Secure Applications and Architectures]() | 24% | 
- Domain 4: [Design Cost-Optimized Architectures]() | 18% | 
+ Domain 2: [Design High-Performing Architectures](/Domain-2/) | 28% | 
+ Domain 3: [Design Secure Applications and Architectures](/Domain-3/)) | 24% | 
+ Domain 4: [Design Cost-Optimized Architectures](/Domain-4/)) | 18% | 
 
 -------------------------------
 
@@ -46,5 +46,6 @@ Domain | % of Examination |
 - [Tutorials Dojo Practice Exams (Free)](https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/)
 - [Exam Pro/FreeCodeCamp Youtube Course (Free)](https://www.youtube.com/watch?v=Ia-UEYYR44s&feature=youtu.be)
 - [A Cloud Guru Course (Paid)](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+- [Cloud Academy Service to Domain Breakdown](https://cloudacademy.com/blog/aws-certified-solutions-architect-associate-study-guide/)
 
 
