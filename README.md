@@ -16,10 +16,10 @@
 
 Domain | % of Examination | 
 ---------|----------|
- Domain 1: Design Resilient Architectures  | 30% | 
- Domain 2: Design High-Performing Architectures | 28% | 
- Domain 3: Design Secure Applications and Architectures | 24% | 
- Domain 4: Design Cost-Optimized Architectures | 18% | 
+ Domain 1: [Design Resilient Architectures]()  | 30% | 
+ Domain 2: [Design High-Performing Architectures]() | 28% | 
+ Domain 3: [Design Secure Applications and Architectures]() | 24% | 
+ Domain 4: [Design Cost-Optimized Architectures]() | 18% | 
 
 -------------------------------
 
@@ -41,8 +41,10 @@ Domain | % of Examination |
   
 ## Additional External Resources
 
-- [Whizlabs Practice Exams (Paid)](https://www.whizlabs.com/aws-solutions-architect-associate/)
+- [Whizlabs Practice Exams (Free/Paid)](https://www.whizlabs.com/aws-solutions-architect-associate/)
+- [Udemy - 6 Practice Exam Bundle (Paid)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/)
 - [Tutorials Dojo Practice Exams (Free)](https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/)
-- [Exam Pro/FreeCodeCamp Youtube Course](https://www.youtube.com/watch?v=Ia-UEYYR44s&feature=youtu.be)
+- [Exam Pro/FreeCodeCamp Youtube Course (Free)](https://www.youtube.com/watch?v=Ia-UEYYR44s&feature=youtu.be)
+- [A Cloud Guru Course (Paid)](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 
 
