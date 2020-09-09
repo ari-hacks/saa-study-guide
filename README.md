@@ -16,14 +16,14 @@
 
 Domain | % of Examination | 
 ---------|----------|
- Domain 1: [Design Resilient Architectures]()  | 30% | 
+ Domain 1: [Design Resilient Architectures](/Domain-1/)  | 30% | 
  Domain 2: [Design High-Performing Architectures]() | 28% | 
  Domain 3: [Design Secure Applications and Architectures]() | 24% | 
  Domain 4: [Design Cost-Optimized Architectures]() | 18% | 
 
 -------------------------------
 
-## Additional AWS Resources
+## AWS Resources
 - [Exam Details](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate-Exam-Guide_v1.1_2019_08_27_FINAL.pdf)
 - [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
@@ -39,7 +39,7 @@ Domain | % of Examination |
     - [Amazon RDS](https://aws.amazon.com/rds/faqs/)
     - [Amazon SQS](https://aws.amazon.com/sqs/faqs/)
   
-## Additional External Resources
+## External Resources
 
 - [Whizlabs Practice Exams (Free/Paid)](https://www.whizlabs.com/aws-solutions-architect-associate/)
 - [Udemy - 6 Practice Exam Bundle (Paid)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/)
