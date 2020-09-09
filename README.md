@@ -24,7 +24,7 @@ Domain | % of Examination |
 -------------------------------
 
 ## Additional AWS Resources
-
+- [Exam Details](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate-Exam-Guide_v1.1_2019_08_27_FINAL.pdf)
 - [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
 - [Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions_v4.1_FINAL.pdf)
