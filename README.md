@@ -47,5 +47,6 @@ Domain | % of Examination |
 - [Exam Pro/FreeCodeCamp Youtube Course (Free)](https://www.youtube.com/watch?v=Ia-UEYYR44s&feature=youtu.be)
 - [A Cloud Guru Course (Paid)](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 - [Cloud Academy Service to Domain Breakdown](https://cloudacademy.com/blog/aws-certified-solutions-architect-associate-study-guide/)
+- [Digital Cloud Training Youtube Videos](https://www.youtube.com/playlist?list=PLzde74P_a04cSuIPgpjoNktCgdOc7VDmJ)
 
 
