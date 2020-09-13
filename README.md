@@ -42,10 +42,10 @@ Domain | % of Examination |
 ## External Resources
 
 - [Whizlabs Practice Exams (Free/Paid)](https://www.whizlabs.com/aws-solutions-architect-associate/)
-- [Udemy - 6 Practice Exam Bundle (Paid)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/)
-- [Tutorials Dojo Practice Exams (Free)](https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/)
+- 🌟[Udemy - 6 Practice Exam Bundle (Paid)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/)
+- [Tutorials Dojo Practice Exams (Free/Sample)](https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/)
 - [Exam Pro/FreeCodeCamp Youtube Course (Free)](https://www.youtube.com/watch?v=Ia-UEYYR44s&feature=youtu.be)
-- [A Cloud Guru Course (Paid)](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+- 🌟[A Cloud Guru Course (Paid)](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 - [Cloud Academy Service to Domain Breakdown](https://cloudacademy.com/blog/aws-certified-solutions-architect-associate-study-guide/)
 - [Digital Cloud Training Youtube Videos](https://www.youtube.com/playlist?list=PLzde74P_a04cSuIPgpjoNktCgdOc7VDmJ)
 
