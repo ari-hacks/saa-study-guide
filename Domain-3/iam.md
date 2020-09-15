@@ -22,16 +22,16 @@
         IAM Identities 
     </summary>
     <p>
-     Users
+     Users - end users
     </p>
      <p>
-     Roles
+     Roles - roles have permissions associated with them and those roles are assigned to users,groups,resources. 
     </p>
      <p>
-     Groups
+     Groups - collection of users that share the same permissions
     </p>
      <p>
-     Policies
+     Policies - defines the permissions for a user, group, or role in the form of a JSON document
     </p>
  
 </details>
