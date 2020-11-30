@@ -42,6 +42,7 @@ Domain | % of Examination |
 ## External Resources
 
 - [Whizlabs Practice Exams (Free/Paid)](https://www.whizlabs.com/aws-solutions-architect-associate/)
+- [Digital Cloud Free Practice Questions, Cheat Sheets and more](https://digitalcloud.training/amazon-aws-free-certification-training-solutions-architect/)
 - 🌟[Udemy - 6 Practice Exam Bundle (Paid)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/)
 - [Tutorials Dojo Practice Exams (Free/Sample)](https://portal.tutorialsdojo.com/courses/free-aws-certified-solutions-architect-associate-practice-exams-sampler/)
 - [Exam Pro/FreeCodeCamp Youtube Course (Free)](https://www.youtube.com/watch?v=Ia-UEYYR44s&feature=youtu.be)
